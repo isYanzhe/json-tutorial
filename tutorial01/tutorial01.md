@@ -18,7 +18,7 @@
 9. [总结与练习](#9-总结与练习)
 10. [常见问答](#10-常见问答)
 
-## 1. JSON 是什么
+## 1. JSON 是什么?
 
 JSON（JavaScript Object Notation）是一个用于数据交换的文本格式，现时的标准为[ECMA-404](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)。
 
